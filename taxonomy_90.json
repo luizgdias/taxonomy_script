@@ -1,0 +1,31 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 90,
+        "ns1:name": "Projetos EP-EXP/GEO - Relatórios ANP"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 10,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1795,
+            "ns1:name": "Relatório de Rocha",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 20,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1796,
+            "ns1:name": "Análises no Exterior",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}

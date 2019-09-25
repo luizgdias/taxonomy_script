@@ -1,0 +1,35 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 509,
+        "ns1:name": "Contrato BCS"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 0,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350707,
+            "ns1:name": "Autorização Serviço",
+            "ns1:briefDescription": "Autorização de Serviço digitalizada",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Autorização de Serviço digitalizada",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 1,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350706,
+            "ns1:name": "Documentos",
+            "ns1:briefDescription": "Especificações do contrato, documento com tolerâncias de testes definidas pelo contrato, etc.",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Especificações do contrato, documento com tolerâncias de testes definidas pelo contrato, etc.",
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}

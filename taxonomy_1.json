@@ -1,0 +1,263 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 1,
+        "ns1:name": "Sísmica - Aquisição"
+    },
+    "ns1:taxonomy": {"ns1:category": {
+        "ns1:root": true,
+        "ns1:relativeOrder": 10,
+        "ns1:leaf": false,
+        "ns1:contentVersioned": false,
+        "ns1:dateChangingAllowed": true,
+        "ns1:id": 43,
+        "ns1:name": "Aquisição Sísmica",
+        "ns1:protectionLevelId": 1,
+        "ns1:inclusionAllowed": false,
+        "ns1:category": [
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 100,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 48,
+                "ns1:name": "Processo de Contratação",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Documentos relevantes relacionados ao processo de contratação, como por exemplo, os DIPs de Solicitação de Início de Contratação(SIC), Autorização de Início de Contratação(AIC), Solicitação de Assinatura de Contrato(SAC), Formação de Comissão de Negociação(CN) ou de Licitação ou de Grupo de Contratação (GC), relatório conclusivo, propostas técnicas/comerciais, e outros documentos considerados relevantes para o processo. Alguns desses documentos estarão disponíveis na Petronect.",
+                "ns1:inclusionAllowed": true
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 140,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 9100,
+                "ns1:name": "Arquivos Pré-empilhamento",
+                "ns1:protectionLevelId": 1,
+                "ns1:inclusionAllowed": true
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 200,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 163,
+                "ns1:name": "SMS",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Licenças ambientais, relatório de acidentes, relatórios de avistagens, e outros documentos considerados relevantes.",
+                "ns1:inclusionAllowed": true
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 300,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 162,
+                "ns1:name": "ANP",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Documentos para encaminhamento à ANP : No caso de dados exclusivos, notificação de iníco e término de aquisição, relatório final de levantamento geofísico, intenção de entrega de dados geofísicos. No caso de dados não exclusivos, notificação de compra e solicitação de abatimento de PEM referente a dados não exclusivos.",
+                "ns1:inclusionAllowed": true
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 400,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 96,
+                "ns1:name": "Contrato",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Última versão do contrato, assim como informações relevantes, como por exemplo, medições realizadas, BAD e outros documentos.",
+                "ns1:inclusionAllowed": true
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 500,
+                "ns1:leaf": false,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 98,
+                "ns1:name": "Correspondências",
+                "ns1:protectionLevelId": 1,
+                "ns1:inclusionAllowed": false,
+                "ns1:category": [
+                    {
+                        "ns1:root": false,
+                        "ns1:relativeOrder": 10,
+                        "ns1:leaf": true,
+                        "ns1:contentVersioned": false,
+                        "ns1:dateChangingAllowed": true,
+                        "ns1:id": 100,
+                        "ns1:name": "Recebidas",
+                        "ns1:protectionLevelId": 1,
+                        "ns1:description": "Atas, emails circulares, e correspondências relevantes.",
+                        "ns1:inclusionAllowed": true
+                    },
+                    {
+                        "ns1:root": false,
+                        "ns1:relativeOrder": 20,
+                        "ns1:leaf": true,
+                        "ns1:contentVersioned": false,
+                        "ns1:dateChangingAllowed": true,
+                        "ns1:id": 99,
+                        "ns1:name": "Enviadas",
+                        "ns1:protectionLevelId": 1,
+                        "ns1:description": "Atas, emails circulares, e correspondências relevantes.",
+                        "ns1:inclusionAllowed": true
+                    }
+                ]
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 600,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 44,
+                "ns1:name": "Proposta de Programa",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Proposta de Programa, projeto de aquisição, preplot, mapas de localização e outros documentos considerados relevantes ao Programa.",
+                "ns1:inclusionAllowed": true
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 700,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 97,
+                "ns1:name": "Relatórios de Execução",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Relatórios de Startup Meeting, do Chefe de Equipe da contratada (PC Report), do cliente, e também as planilhas de controle gerada pelos técnicos da PETROBRAS.",
+                "ns1:inclusionAllowed": true
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 800,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 360,
+                "ns1:name": "Controle de Qualidade",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Documentos relacionados ao controle de qualidade realizado a bordo ou remotamente, como por exemplo, seções sísmicas, sismogramas, controle de nível de ruído, cobertura, mapas de ruído e outras informações consideradas relevantes.",
+                "ns1:inclusionAllowed": true
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 900,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 58,
+                "ns1:name": "Relatório Navegação",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Produtos de navegação incluindo relatórios, mapa de cobertura final, mapa de batimetria e outros documentos considerados relevantes .",
+                "ns1:inclusionAllowed": true
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 1000,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 59,
+                "ns1:name": "Relatorio Observador",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Relatórios dos Observadores.",
+                "ns1:inclusionAllowed": true
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 1100,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 57,
+                "ns1:name": "Relatórios Finais",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Relatorio final da aquisição do Chefe da Equipe, do Cliente, da Navegação, dos Observadores, posplot e outros documentos considerados relevantes.",
+                "ns1:inclusionAllowed": true
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 1150,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 496,
+                "ns1:name": "Assinatura de Campo Remoto",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Arquivos de campo remoto e documentos relacionados que apresentem informações relevantes sobre o tipo de aquisição, configuração de arranjo, tipo de fonte, parâmetros utilizados, espectros de frequência, etc.",
+                "ns1:inclusionAllowed": true
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 1200,
+                "ns1:leaf": false,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 499,
+                "ns1:name": "Informações Recebidas",
+                "ns1:protectionLevelId": 1,
+                "ns1:inclusionAllowed": true,
+                "ns1:category": [
+                    {
+                        "ns1:root": false,
+                        "ns1:relativeOrder": 10,
+                        "ns1:leaf": true,
+                        "ns1:contentVersioned": false,
+                        "ns1:dateChangingAllowed": true,
+                        "ns1:id": 491,
+                        "ns1:name": "Boletim de remessa",
+                        "ns1:protectionLevelId": 1,
+                        "ns1:description": "Boletim de remessa e outros documentos.",
+                        "ns1:inclusionAllowed": true
+                    },
+                    {
+                        "ns1:root": false,
+                        "ns1:relativeOrder": 20,
+                        "ns1:leaf": true,
+                        "ns1:contentVersioned": false,
+                        "ns1:dateChangingAllowed": true,
+                        "ns1:id": 492,
+                        "ns1:name": "Foto de mídia",
+                        "ns1:protectionLevelId": 1,
+                        "ns1:description": "Imagem das mídias recebidas.",
+                        "ns1:inclusionAllowed": true
+                    },
+                    {
+                        "ns1:root": false,
+                        "ns1:relativeOrder": 30,
+                        "ns1:leaf": true,
+                        "ns1:contentVersioned": false,
+                        "ns1:dateChangingAllowed": true,
+                        "ns1:id": 596,
+                        "ns1:name": "Certificação",
+                        "ns1:briefDescription": "Documentos relacionados ao controle de qualidade realizado sobre os dados recebidos.",
+                        "ns1:protectionLevelId": 1,
+                        "ns1:description": "Documentos relacionados ao controle de qualidade realizado sobre os dados recebidos, como por exemplo, laudo de remessas recebidas, seções near-trace, arquivos descritivos do conteúdo das mídias, resultados de testes realizados sobre os dados e outras informações consideradas relevantes.",
+                        "ns1:inclusionAllowed": true
+                    }
+                ]
+            },
+            {
+                "ns1:root": false,
+                "ns1:relativeOrder": 1210,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 498,
+                "ns1:name": "Arquivos de Coordenadas",
+                "ns1:briefDescription": "Arquivos de Coordenadas",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Arquivos de Coordenadas",
+                "ns1:inclusionAllowed": true
+            }
+        ]
+    }}
+}}

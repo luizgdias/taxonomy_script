@@ -1,0 +1,117 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 31,
+        "ns1:name": "Equipamento Catálogo"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 0,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 23001,
+            "ns1:name": "Manual",
+            "ns1:briefDescription": "Manual do equipamento",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Documento que contém noções essenciais de um equipamento, com detalhes de utilização, sua especificação técnica, manutenções periódicas recomendadas, possíveis problemas com a forma de resolução e etc.",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 0,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350708,
+            "ns1:name": "Métodos de Elevação",
+            "ns1:briefDescription": "Métodos de Elevação",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Métodos de Elevação",
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350709,
+                    "ns1:name": "BCS",
+                    "ns1:briefDescription": "Método BCS",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "BCS - Método de Elevação Bombeio Centrífugo Submerso",
+                    "ns1:inclusionAllowed": false,
+                    "ns1:category": {
+                        "ns1:root": false,
+                        "ns1:relativeOrder": 1,
+                        "ns1:leaf": true,
+                        "ns1:contentVersioned": false,
+                        "ns1:dateChangingAllowed": true,
+                        "ns1:id": 1350710,
+                        "ns1:name": "Documentos Técnicos",
+                        "ns1:briefDescription": "Folha de especificações do equipamento, gráficos de desempenho, etc",
+                        "ns1:protectionLevelId": 1,
+                        "ns1:description": "Folha de especificações do equipamento, gráficos de desempenho, etc",
+                        "ns1:inclusionAllowed": true
+                    }
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 1,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1351206,
+                    "ns1:name": "Gás Lift",
+                    "ns1:briefDescription": "Gás Lift",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Gás Lift",
+                    "ns1:inclusionAllowed": false,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 1,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 23002,
+                            "ns1:name": "Imagem",
+                            "ns1:briefDescription": "Imagem do equipamento",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "Representação visual de um equipamento.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 3,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 23004,
+                            "ns1:name": "Desenho Técnico",
+                            "ns1:briefDescription": "Desenho técnico do equipamento",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "Desenho técnico é a representação gráfica voltada ao projeto de máquinas, motores, peças mecânicas ou elétricas, que contém todas as informações referentes ao projeto. Também é conhecido como \"Desenho Mecânico\".",
+                            "ns1:inclusionAllowed": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 2,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 23003,
+            "ns1:name": "Especificação Técnica",
+            "ns1:briefDescription": "Especificação técnica do equipamento",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Descrição rigorosa e minuciosa das características que determinado equipamento deve apresentar. Equivale a um folheto de explicação contendo as especificações de um determinado equipamento.",
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}

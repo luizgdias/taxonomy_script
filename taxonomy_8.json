@@ -1,0 +1,548 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 8,
+        "ns1:name": "Projetos de Modelagem de Sistemas Petrolíferos"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 0,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 31100,
+            "ns1:name": "Dados de Entrada",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Informações sobre dados recebidos pelos modeladores assim como dados cadastrais do projeto",
+            "ns1:inclusionAllowed": true,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 31110,
+                    "ns1:name": "Dados Cadastrais",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "O cadastro será composto por todas as informações importantes para a identificação do modelo tais como: profissional responsável pela modelagem, nome do cliente, localização (nome da bacia, do bloco, coordenadas), data da realização, nível de segurança da informação e propósito da modelagem além de outras informações gerais quando disponíveis e necessárias (tais como centro de custos no SAP/R3, parceiros da empresa no bloco, horas previstas e realizadas de trabalho, etc.).",
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 1,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 31120,
+                    "ns1:name": "Dados Litológicos",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Os dados litológicos são aqueles desenvolvidos pela equipe de interpretação que esta trabalhando no projeto, sem nenhuma alteração do modelador. Caso este tenha que pesquisar e montar um mapa litológico,  este dado será arquivado em dados tratados.",
+                    "ns1:inclusionAllowed": true,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31121,
+                            "ns1:name": "Fácies",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 1,
+                            "ns1:leaf": false,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31122,
+                            "ns1:name": "Documentos",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true,
+                            "ns1:category": [
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 0,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 31123,
+                                    "ns1:name": "Bibliografia de Referência",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "São todas as referências bibliográficas utilizadas no estudo da área. Serão armazenados os trabalhos completos utilizados e não somente a sua referência.",
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 1,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 31124,
+                                    "ns1:name": "Relatórios",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "São todos os relatórios de conhecimentos gerais referentes a área modelada ou aqueles realizados pelo modelador após a realização do trabalho.",
+                                    "ns1:inclusionAllowed": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 2,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 31130,
+                    "ns1:name": "Horizontes",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Os horizontes relacionados a dados brutos são aqueles interpretados pela equipe que esta trabalhando no projeto, sem nenhuma alteração do modelador que irá trabalhar com estes dados.",
+                    "ns1:inclusionAllowed": true,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31131,
+                            "ns1:name": "Paleobatimétricos",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "Local onde são colocadas as informações referentes aos dados de paleobatimetria, obtidas através da interpretação litológica dos poços.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 1,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31132,
+                            "ns1:name": "Leads",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "As informações relacionadas a Leads são aquelas que contém os mapas dos reservatórios associados a área modelada.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 2,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31133,
+                            "ns1:name": "Sísmica",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "São todas as informações relacionadas as linhas sísmicas com ou sem os horizontes mapeados.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 3,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31134,
+                            "ns1:name": "Blocos",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "Área do bloco pesquisado.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 4,
+                            "ns1:leaf": false,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31135,
+                            "ns1:name": "Documentos",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true,
+                            "ns1:category": [
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 0,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 31136,
+                                    "ns1:name": "Bibliografia de Referência",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "São todas as referências bibliográficas utilizadas no estudo da área. Serão armazenados os trabalhos completos utilizados e não somente a sua referência.",
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 1,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 31137,
+                                    "ns1:name": "Relatórios",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "São todos os relatórios de conhecimentos gerais referentes a área modelada ou aqueles realizados pelo modelador após a realização do trabalho.",
+                                    "ns1:inclusionAllowed": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 3,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 31140,
+                    "ns1:name": "Térmicos",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31141,
+                            "ns1:name": "Temperatura",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "Local onde serão colocadas todas as informações de temperaturas obtidas pelo cálculo do modelo térmico, como os graficos de temperaturas.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 1,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31142,
+                            "ns1:name": "Paleotemperatura",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "informações de paleotemperatura",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 2,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31143,
+                            "ns1:name": "Diversos",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "São todas as informações diversas e importantes para a modelagem que não fazem parte de nenhuma outra pasta, como observações geológicas da área.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 3,
+                            "ns1:leaf": false,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31144,
+                            "ns1:name": "Documentos",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true,
+                            "ns1:category": [
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 0,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 31145,
+                                    "ns1:name": "Bibliografia de Referência",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "São todas as referências bibliográficas utilizadas no estudo da área. Serão armazenados os trabalhos completos utilizados e não somente a sua referência.",
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 1,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 31146,
+                                    "ns1:name": "Relatórios",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "São todos os relatórios de conhecimentos gerais referentes a área modelada ou aqueles realizados pelo modelador após a realização do trabalho.",
+                                    "ns1:inclusionAllowed": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 4,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 31150,
+                    "ns1:name": "Estruturais",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31151,
+                            "ns1:name": "Falhas",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "As informações sobre falhas são todas aquelas relacionadas a: orientação, localização, tipo, tempo de atuação e quando possível características de permeabilidade e porosidade da mesma.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 1,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31152,
+                            "ns1:name": "Erosão",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "As informações sobre erosão são aquelas que indicam alguma descontinuidade importante nos horizontes mapeados. Estas informações podem ser armazenadas em forma de mapas ou relatórios descritivos.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 2,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31153,
+                            "ns1:name": "Halocinéticos",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "São os mapas de movimentação do sal reconstituidos pelo programa de modelagem e refinados pelo modelador.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 3,
+                            "ns1:leaf": false,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31154,
+                            "ns1:name": "Documentos",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true,
+                            "ns1:category": [
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 0,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 31155,
+                                    "ns1:name": "Bibliografia de Referência",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "São todas as referências bibliográficas utilizadas no estudo da área. Serão armazenados os trabalhos completos utilizados e não somente a sua referência.",
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 1,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 31156,
+                                    "ns1:name": "Relatórios",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "São todos os relatórios de conhecimentos gerais referentes a área modelada ou aqueles realizados pelo modelador após a realização do trabalho.",
+                                    "ns1:inclusionAllowed": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 5,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 31160,
+                    "ns1:name": "Geoquímicos",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31161,
+                            "ns1:name": "Indícios",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "São todas as informações relacionadas a indícios como: descrição de amostra de calha, seeps, exudações ou algum outro tipo de indicação.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 1,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31162,
+                            "ns1:name": "Fluidos",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "Local onde são colocadas as informações relacionadas ao tipo de fluído e grau API. Onde deve-se constar a indetificação da acumulação ou do poço e a que situação o fluído está sendo medido.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 2,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31163,
+                            "ns1:name": "Rocha Geradora",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "tipo de rocha geradora (I, II ou III), idade, espessura da camada e quando possível cinética relacionada.",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 3,
+                            "ns1:leaf": false,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 31164,
+                            "ns1:name": "Documentos",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true,
+                            "ns1:category": [
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 0,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 31165,
+                                    "ns1:name": "Bibliografia de Referência",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "São todas as referências bibliográficas utilizadas no estudo da área. Serão armazenados os trabalhos completos utilizados e não somente a sua referência.",
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 1,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 31166,
+                                    "ns1:name": "Relatórios",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "São todos os relatórios de conhecimentos gerais referentes a área modelada ou aqueles realizados pelo modelador após a realização do trabalho.",
+                                    "ns1:inclusionAllowed": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 6,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 31170,
+                    "ns1:name": "Poços",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Poços utilizados na modelagem, extraídos diretamente do SIGEO ou aqueles utilizados em modelagens anteriore",
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 7,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 31180,
+                    "ns1:name": "Diversos",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 2,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 31200,
+            "ns1:name": "Resultados",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": true,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 31210,
+                    "ns1:name": "Apresentações",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 31220,
+                    "ns1:name": "Resultados em 3D",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 3,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 31300,
+            "ns1:name": "BR_SimBR",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "arquivo com modelo atualizado rodado no SimBR",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 4,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 31400,
+            "ns1:name": "PM_Petromod",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "arquivo compactado com modelo original rodado no Petromod)",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 5,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 31500,
+            "ns1:name": "TS_Temis",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "arquivo compactado com modelo original rodado no Temis",
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}

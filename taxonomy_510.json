@@ -1,0 +1,63 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 510,
+        "ns1:name": "Modelo Geológico Projeto"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 0,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350711,
+            "ns1:name": "GRID 3D",
+            "ns1:briefDescription": "Documento com propriedades de um grid 3D",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Documento com propriedades de um grid 3D, exportado a partir de um software de interpretação geológica",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 1,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": false,
+            "ns1:id": 1350712,
+            "ns1:name": "Simulação",
+            "ns1:briefDescription": "Entradas e saídas das simulações do modelo geológico",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Entradas e saídas das simulações do modelo geológico",
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 1,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350713,
+                    "ns1:name": "Entradas",
+                    "ns1:briefDescription": "Entradas das simulações do modelo geológico",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Entradas das simulações do modelo geológico",
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 2,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350714,
+                    "ns1:name": "Saídas",
+                    "ns1:briefDescription": "Saídas das simulações do modelo geológico",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Saídas das simulações do modelo geológico",
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        }
+    ]}
+}}

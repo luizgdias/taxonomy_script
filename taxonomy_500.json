@@ -1,0 +1,195 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 500,
+        "ns1:name": "Documentos ANP"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 10,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350383,
+            "ns1:name": "Declaração Anual do Acervo da União",
+            "ns1:briefDescription": "Declaração Anual do Acervo da União",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Declaração Anual do Acervo da União",
+            "ns1:inclusionAllowed": true,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 10,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350387,
+                    "ns1:name": 2012,
+                    "ns1:briefDescription": 2012,
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": 2012,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 20,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350388,
+                    "ns1:name": 2013,
+                    "ns1:briefDescription": 2013,
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": 2013,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 30,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350389,
+                    "ns1:name": 2014,
+                    "ns1:briefDescription": 2014,
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": 2014,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 40,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350390,
+                    "ns1:name": 2015,
+                    "ns1:briefDescription": 2015,
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": 2015,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 50,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350391,
+                    "ns1:name": 2016,
+                    "ns1:briefDescription": 2016,
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": 2016,
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 20,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350392,
+            "ns1:name": "Envio Semestral de Dados",
+            "ns1:briefDescription": "Envio Semestral de Dados",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Envio Semestral de Dados",
+            "ns1:inclusionAllowed": true,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 10,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350393,
+                    "ns1:name": 2012,
+                    "ns1:briefDescription": 2012,
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": 2012,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 20,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350394,
+                    "ns1:name": 2013,
+                    "ns1:briefDescription": 2013,
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": 2013,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 30,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350395,
+                    "ns1:name": 2014,
+                    "ns1:briefDescription": 2014,
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": 2014,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 40,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350396,
+                    "ns1:name": 2015,
+                    "ns1:briefDescription": 2015,
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": 2015,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 50,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350397,
+                    "ns1:name": 2016,
+                    "ns1:briefDescription": 2016,
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": 2016,
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 30,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350385,
+            "ns1:name": "Atas de reuniões",
+            "ns1:briefDescription": "Atas de reuniões",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Atas de reuniões",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 40,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350386,
+            "ns1:name": "Resoluções/Portarias",
+            "ns1:briefDescription": "Resoluções/Portarias",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Resoluções/Portarias",
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}

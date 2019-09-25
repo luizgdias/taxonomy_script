@@ -1,0 +1,1018 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 18,
+        "ns1:name": "Concessão"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 1,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 10001,
+            "ns1:name": "ANP",
+            "ns1:briefDescription": "Categoria relativa à ANP",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Categoria ANP",
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10438,
+                    "ns1:name": "Autorização",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10439,
+                    "ns1:name": "Boletim",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10440,
+                    "ns1:name": "Comunicação",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10441,
+                    "ns1:name": "Contrato de Concessão",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10442,
+                    "ns1:name": "Declaração",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10443,
+                    "ns1:name": "Devolução",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10444,
+                    "ns1:name": "Genérico",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10445,
+                    "ns1:name": "Informações de Exploração",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10446,
+                    "ns1:name": "Informações de Produção",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10448,
+                    "ns1:name": "Inspeção",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10447,
+                    "ns1:name": "Legislação",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10449,
+                    "ns1:name": "Medição",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10450,
+                    "ns1:name": "Notificação",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10452,
+                    "ns1:name": "Participação Governamental",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10451,
+                    "ns1:name": "Plano de Desenvolvimento",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10454,
+                    "ns1:name": "Relatório",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10455,
+                    "ns1:name": "Relatório Mensal",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10453,
+                    "ns1:name": "SMS",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10456,
+                    "ns1:name": "Solicitações da ANP",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10457,
+                    "ns1:name": "Transferência",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 3,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 10009,
+            "ns1:name": "Contratos",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10010,
+                    "ns1:name": "Concessão",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 0,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10011,
+                    "ns1:name": "Serviços e Materiais",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": false,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10012,
+                            "ns1:name": "Propostas de Serviço",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10013,
+                            "ns1:name": "Sísmica",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10014,
+                            "ns1:name": "Termo de Ajuste",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 4,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 10015,
+            "ns1:name": "Gestão",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 5,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10041,
+                    "ns1:name": "Auditoria",
+                    "ns1:briefDescription": "Auditoria",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Auditoria",
+                    "ns1:inclusionAllowed": false,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 10,
+                            "ns1:leaf": false,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10042,
+                            "ns1:name": "Interna",
+                            "ns1:briefDescription": "Interna",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "Interna",
+                            "ns1:inclusionAllowed": false,
+                            "ns1:category": [
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 10,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 10043,
+                                    "ns1:name": "Termos de Referência",
+                                    "ns1:briefDescription": "Termos de Referência",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "Termos de Referência",
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 20,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 10044,
+                                    "ns1:name": "Informações Requisitadas (IR)",
+                                    "ns1:briefDescription": "Informações Requisitadas (IR)",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "Informações Requisitadas (IR)",
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 30,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 10045,
+                                    "ns1:name": "Respostas às IR",
+                                    "ns1:briefDescription": "Respostas às IR",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "Respostas às IR",
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 40,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 10046,
+                                    "ns1:name": "Relatórios Finais",
+                                    "ns1:briefDescription": "Relatórios Finais",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "Relatórios Finais",
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 50,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 10047,
+                                    "ns1:name": "Outros Documentos",
+                                    "ns1:briefDescription": "Outros Documentos",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "Outros Documentos",
+                                    "ns1:inclusionAllowed": true
+                                }
+                            ]
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 20,
+                            "ns1:leaf": false,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10048,
+                            "ns1:name": "Externa",
+                            "ns1:briefDescription": "Externa",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "Externa",
+                            "ns1:inclusionAllowed": false,
+                            "ns1:category": [
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 10,
+                                    "ns1:leaf": false,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 10049,
+                                    "ns1:name": "ANP",
+                                    "ns1:briefDescription": "ANP",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "ANP",
+                                    "ns1:inclusionAllowed": false,
+                                    "ns1:category": [
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 10,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10050,
+                                            "ns1:name": "Termos de Referência",
+                                            "ns1:briefDescription": "Termos de Referência",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Termos de Referência",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 20,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10051,
+                                            "ns1:name": "Informações Requisitadas (IR)",
+                                            "ns1:briefDescription": "Informações Requisitadas (IR)",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Informações Requisitadas (IR)",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 30,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10052,
+                                            "ns1:name": "Respostas às IR",
+                                            "ns1:briefDescription": "Respostas às IR",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Respostas às IR",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 40,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10053,
+                                            "ns1:name": "Relatórios Finais",
+                                            "ns1:briefDescription": "Relatórios Finais",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Relatórios Finais",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 50,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10054,
+                                            "ns1:name": "Outros Documentos",
+                                            "ns1:briefDescription": "Outros Documentos",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Outros Documentos",
+                                            "ns1:inclusionAllowed": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 20,
+                                    "ns1:leaf": false,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 10055,
+                                    "ns1:name": "PPSA",
+                                    "ns1:briefDescription": "PPSA",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "PPSA",
+                                    "ns1:inclusionAllowed": false,
+                                    "ns1:category": [
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 10,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10056,
+                                            "ns1:name": "Termos de Referência",
+                                            "ns1:briefDescription": "Termos de Referência",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Termos de Referência",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 20,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10057,
+                                            "ns1:name": "Informações Requisitadas (IR)",
+                                            "ns1:briefDescription": "Informações Requisitadas (IR)",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Informações Requisitadas (IR)",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 30,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10058,
+                                            "ns1:name": "Respostas às IR",
+                                            "ns1:briefDescription": "Respostas às IR",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Respostas às IR",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 40,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10059,
+                                            "ns1:name": "Relatórios Finais",
+                                            "ns1:briefDescription": "Relatórios Finais",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Relatórios Finais",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 50,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10060,
+                                            "ns1:name": "Outros Documentos",
+                                            "ns1:briefDescription": "Outros Documentos",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Outros Documentos",
+                                            "ns1:inclusionAllowed": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 30,
+                                    "ns1:leaf": false,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 10061,
+                                    "ns1:name": "Parceiros",
+                                    "ns1:briefDescription": "Parceiros",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "Parceiros",
+                                    "ns1:inclusionAllowed": false,
+                                    "ns1:category": [
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 10,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10073,
+                                            "ns1:name": "Documentos",
+                                            "ns1:briefDescription": "Documentos",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Documentos",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 20,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10074,
+                                            "ns1:name": "Reuniões",
+                                            "ns1:briefDescription": "Reuniões",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Reuniões",
+                                            "ns1:inclusionAllowed": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 40,
+                                    "ns1:leaf": false,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 10067,
+                                    "ns1:name": "Órgãos de Controle Externo",
+                                    "ns1:briefDescription": "Órgãos de Controle Interno",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:description": "Órgãos de Controle Interno",
+                                    "ns1:inclusionAllowed": false,
+                                    "ns1:category": [
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 10,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10068,
+                                            "ns1:name": "Termos de Referência",
+                                            "ns1:briefDescription": "Termos de Referência",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Termos de Referência",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 20,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10069,
+                                            "ns1:name": "Informações Requisitadas (IR)",
+                                            "ns1:briefDescription": "Informações Requisitadas (IR)",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Informações Requisitadas (IR)",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 30,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10070,
+                                            "ns1:name": "Respostas às IR",
+                                            "ns1:briefDescription": "Respostas às IR",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Respostas às IR",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 40,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10071,
+                                            "ns1:name": "Relatórios Finais",
+                                            "ns1:briefDescription": "Relatórios Finais",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Relatórios Finais",
+                                            "ns1:inclusionAllowed": true
+                                        },
+                                        {
+                                            "ns1:root": false,
+                                            "ns1:relativeOrder": 50,
+                                            "ns1:leaf": true,
+                                            "ns1:contentVersioned": false,
+                                            "ns1:dateChangingAllowed": true,
+                                            "ns1:id": 10072,
+                                            "ns1:name": "Outros Documentos",
+                                            "ns1:briefDescription": "Outros Documentos",
+                                            "ns1:protectionLevelId": 1,
+                                            "ns1:description": "Outros Documentos",
+                                            "ns1:inclusionAllowed": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 10,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10016,
+                    "ns1:name": "Correspondências",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": false,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10017,
+                            "ns1:name": "Enviadas",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10018,
+                            "ns1:name": "Recebidas",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10019,
+                            "ns1:name": "Transmittal Letter",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        }
+                    ]
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 20,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10020,
+                    "ns1:name": "Documentos Aprovados",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": false,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10021,
+                            "ns1:name": "AFE",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10195,
+                            "ns1:name": "Atas de FCM",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10193,
+                            "ns1:name": "Atas de OCM",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10194,
+                            "ns1:name": "Atas de TCM",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10023,
+                            "ns1:name": "Orçamentos e Programas de Trabalho",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10024,
+                            "ns1:name": "Outros Ballots",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        }
+                    ]
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 30,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10025,
+                    "ns1:name": "Financeira",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": false,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10191,
+                            "ns1:name": "Análise de Custos - Outros",
+                            "ns1:briefDescription": "Análises dos outros custos dos projetos",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "Análises dos outros custos dos projetos",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10190,
+                            "ns1:name": "Análise de Custos - Poços",
+                            "ns1:briefDescription": "Análises dos custos dos poços",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "Análises dos custos dos poços",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10026,
+                            "ns1:name": "Billing Statement",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10027,
+                            "ns1:name": "Cash Call",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10192,
+                            "ns1:name": "Informações PS - Delegações",
+                            "ns1:briefDescription": "Verificações de delegação dos projetos",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:description": "Verificações de delegação dos projetos",
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10028,
+                            "ns1:name": "Medição de Serviços",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 0,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10029,
+                            "ns1:name": "Registro de Horas",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        }
+                    ]
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 40,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 10036,
+                    "ns1:name": "Reuniões",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": false,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 10,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10037,
+                            "ns1:name": "OCM",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 20,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10039,
+                            "ns1:name": "TCM",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 30,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10040,
+                            "ns1:name": "Workshop",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 40,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 10038,
+                            "ns1:name": "Outras Reuniões",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 5,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 10030,
+            "ns1:name": "Meio Ambiente",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": false,
+            "ns1:category": {
+                "ns1:root": false,
+                "ns1:relativeOrder": 0,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 10031,
+                "ns1:name": "Licenças Ambientais",
+                "ns1:protectionLevelId": 1,
+                "ns1:inclusionAllowed": true
+            }
+        }
+    ]}
+}}

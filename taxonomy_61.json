@@ -1,0 +1,46 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 61,
+        "ns1:name": "Zona de Geológica"
+    },
+    "ns1:taxonomy": {"ns1:category": {
+        "ns1:root": true,
+        "ns1:relativeOrder": 3,
+        "ns1:leaf": false,
+        "ns1:contentVersioned": false,
+        "ns1:dateChangingAllowed": true,
+        "ns1:id": 953,
+        "ns1:name": "Reservatórios",
+        "ns1:briefDescription": "Reservatórios",
+        "ns1:protectionLevelId": 1,
+        "ns1:description": "Reservatórios",
+        "ns1:inclusionAllowed": true,
+        "ns1:category": {
+            "ns1:root": false,
+            "ns1:relativeOrder": 3,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 954,
+            "ns1:name": "Engenharia de Reservatórios",
+            "ns1:briefDescription": "Engenharia de Reservatórios",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Engenharia de Reservatórios",
+            "ns1:inclusionAllowed": true,
+            "ns1:category": {
+                "ns1:root": false,
+                "ns1:relativeOrder": 3,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 955,
+                "ns1:name": "Estudos",
+                "ns1:briefDescription": "Estudos",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Estudos",
+                "ns1:inclusionAllowed": true
+            }
+        }
+    }}
+}}

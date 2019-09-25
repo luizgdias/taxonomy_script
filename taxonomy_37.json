@@ -1,0 +1,44 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 37,
+        "ns1:name": "Atlas de Geologia"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 1,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1572,
+            "ns1:name": "Lâminas petrográficas de carbonatos",
+            "ns1:briefDescription": "Categoria para imagens de Lâminas petrográficas de carbonatos",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Categoria para imagens de Lâminas petrográficas de carbonatos",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 1,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1570,
+            "ns1:name": "Petrografia",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": true,
+            "ns1:category": {
+                "ns1:root": false,
+                "ns1:relativeOrder": 1,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 1571,
+                "ns1:name": "Foto",
+                "ns1:protectionLevelId": 1,
+                "ns1:inclusionAllowed": true
+            }
+        }
+    ]}
+}}

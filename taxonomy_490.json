@@ -1,0 +1,48 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 490,
+        "ns1:name": "AGL Annual Meeting"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 1,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350342,
+            "ns1:name": "Apresentação",
+            "ns1:briefDescription": "Apresentações realizadas durante o evento",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Apresentações realizadas durante o evento",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 2,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350343,
+            "ns1:name": "Memória",
+            "ns1:briefDescription": "Outros arquivos que ajudem a preservar a memória do evento",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Outros arquivos que ajudem a preservar a memória do evento",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 3,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350344,
+            "ns1:name": "Foto",
+            "ns1:briefDescription": "Fotos do Encontro",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Fotos do Encontro",
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}

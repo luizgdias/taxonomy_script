@@ -1,0 +1,126 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 451,
+        "ns1:name": "Projetos Multiclientes"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 10,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2320,
+            "ns1:name": "Apresentações",
+            "ns1:briefDescription": "Apresentações",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Apresentações",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 20,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2321,
+            "ns1:name": "Artigos",
+            "ns1:briefDescription": "Artigos",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Artigos",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 30,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2322,
+            "ns1:name": "Cursos",
+            "ns1:briefDescription": "Cursos",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Cursos",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 40,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2323,
+            "ns1:name": "Dados",
+            "ns1:briefDescription": "Dados",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Dados",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 50,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2324,
+            "ns1:name": "Eventos",
+            "ns1:briefDescription": "Eventos",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Eventos",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 60,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2325,
+            "ns1:name": "Programas",
+            "ns1:briefDescription": "Programas",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Programas",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 70,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2326,
+            "ns1:name": "Relatórios",
+            "ns1:briefDescription": "Relatórios",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Relatórios",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 80,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2327,
+            "ns1:name": "Teses e Dissertações",
+            "ns1:briefDescription": "Teses e Dissertações",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Teses e Dissertações",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 90,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2328,
+            "ns1:name": "Viagens",
+            "ns1:briefDescription": "Viagens",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Viagens",
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}

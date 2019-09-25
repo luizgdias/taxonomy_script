@@ -1,0 +1,81 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 244,
+        "ns1:name": "Modelagem Física de Ambientes Tectônicos"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 10,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 21620,
+            "ns1:name": "Projeto/Experiência",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Projeto/Experiência",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 20,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 21621,
+            "ns1:name": "Corte",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Corte",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 30,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 21622,
+            "ns1:name": "Perfil",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Perfil",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 40,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 21623,
+            "ns1:name": "Topo",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Topo",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 50,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 21624,
+            "ns1:name": "Ficha descritiva",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Ficha descritiva",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 60,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 21625,
+            "ns1:name": "Resultados",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Resultados",
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}

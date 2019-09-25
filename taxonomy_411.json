@@ -1,0 +1,158 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 411,
+        "ns1:name": "Curso de Campo - Carbonatos em Omã"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 10,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 12161,
+            "ns1:name": "Roteiro",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 20,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 12162,
+            "ns1:name": "Logística",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 30,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 12163,
+            "ns1:name": "Bibliografia",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 10,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 12164,
+                    "ns1:name": "Referência",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 20,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 12165,
+                    "ns1:name": "Artigo",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 30,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 12166,
+                    "ns1:name": "Apresentação",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 40,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 12171,
+            "ns1:name": "Relatório",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 10,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 12172,
+                    "ns1:name": "Gerencial",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 20,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 12173,
+                    "ns1:name": "Técnico",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 50,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 12174,
+            "ns1:name": "Apresentação",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 60,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 12175,
+            "ns1:name": "Fotografia",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 10,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 12176,
+                    "ns1:name": "Fotos culturais",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 20,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 12177,
+                    "ns1:name": "Afloramentos visitados",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        }
+    ]}
+}}

@@ -1,0 +1,285 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 30,
+        "ns1:name": "Furo"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 1,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1800,
+            "ns1:name": "Análises Laboratoriais e Descrições de Amostras",
+            "ns1:protectionLevelId": 1,
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 2,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1801,
+                    "ns1:name": "Petrografia e Sedimentologia",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": false,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 3,
+                            "ns1:leaf": false,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 1802,
+                            "ns1:name": "Testemunho (Piston Core)",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": false,
+                            "ns1:category": [
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 4,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 1803,
+                                    "ns1:name": "ANASETE",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 5,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 1804,
+                                    "ns1:name": "Selo",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 6,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 1805,
+                                    "ns1:name": "Sedimentologia",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 7,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 1806,
+                                    "ns1:name": "Tomografias",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 8,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 1807,
+                                    "ns1:name": "Carbonatos",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 9,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 1808,
+                                    "ns1:name": "Foto Conjunto",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 10,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 1809,
+                                    "ns1:name": "Foto Detalhe",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 11,
+                                    "ns1:leaf": false,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 1810,
+                                    "ns1:name": "Carbonatos (Lâminas petrográficas)",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:inclusionAllowed": true,
+                                    "ns1:category": {
+                                        "ns1:root": false,
+                                        "ns1:relativeOrder": 12,
+                                        "ns1:leaf": true,
+                                        "ns1:contentVersioned": false,
+                                        "ns1:dateChangingAllowed": true,
+                                        "ns1:id": 1811,
+                                        "ns1:name": "Descrição petrográfica",
+                                        "ns1:protectionLevelId": 1,
+                                        "ns1:inclusionAllowed": true
+                                    }
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 13,
+                                    "ns1:leaf": false,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 1812,
+                                    "ns1:name": "Siliciclásticos (Lâminas petrográficas)",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:inclusionAllowed": false,
+                                    "ns1:category": {
+                                        "ns1:root": false,
+                                        "ns1:relativeOrder": 14,
+                                        "ns1:leaf": true,
+                                        "ns1:contentVersioned": false,
+                                        "ns1:dateChangingAllowed": true,
+                                        "ns1:id": 1813,
+                                        "ns1:name": "Descrição petrográfica",
+                                        "ns1:protectionLevelId": 1,
+                                        "ns1:inclusionAllowed": true
+                                    }
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 15,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 1814,
+                                    "ns1:name": "MEV",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 16,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 1652,
+                                    "ns1:name": "DRX",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:inclusionAllowed": true
+                                },
+                                {
+                                    "ns1:root": false,
+                                    "ns1:relativeOrder": 20,
+                                    "ns1:leaf": true,
+                                    "ns1:contentVersioned": false,
+                                    "ns1:dateChangingAllowed": true,
+                                    "ns1:id": 1654,
+                                    "ns1:name": "Wholecore",
+                                    "ns1:protectionLevelId": 1,
+                                    "ns1:inclusionAllowed": true
+                                }
+                            ]
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 16,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 1815,
+                            "ns1:name": "Outras Amostras",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        }
+                    ]
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 17,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1816,
+                    "ns1:name": "Bioestratigrafia e Paleoecologia",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:inclusionAllowed": false,
+                    "ns1:category": [
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 18,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 1817,
+                            "ns1:name": "Microfóssil",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 19,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 1818,
+                            "ns1:name": "Leitura",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        },
+                        {
+                            "ns1:root": false,
+                            "ns1:relativeOrder": 20,
+                            "ns1:leaf": true,
+                            "ns1:contentVersioned": false,
+                            "ns1:dateChangingAllowed": true,
+                            "ns1:id": 1819,
+                            "ns1:name": "Museu",
+                            "ns1:protectionLevelId": 1,
+                            "ns1:inclusionAllowed": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 0,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1630,
+            "ns1:name": "Catodoluminescencia",
+            "ns1:briefDescription": "Categoria para documentos de Catodoluminescencia",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Categoria para documentos de Catodoluminescencia",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 0,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1633,
+            "ns1:name": "Epifluorescencia",
+            "ns1:briefDescription": "Categoria para documentos de Epifluorescencia",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Categoria para documentos de Epifluorescencia",
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}

@@ -1,0 +1,145 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 96,
+        "ns1:name": "Projetos de Mecânica de Rochas"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 10,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 898,
+            "ns1:name": "Amostra Laboratorial",
+            "ns1:briefDescription": "Amostra Laboratorial",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Amostra Laboratorial",
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 10,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 899,
+                    "ns1:name": "Amostragem",
+                    "ns1:briefDescription": "Amostragem",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Amostragem",
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 10,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 900,
+                    "ns1:name": "Medição",
+                    "ns1:briefDescription": "Medição",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Medição",
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 10,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 891,
+            "ns1:name": "Projeto",
+            "ns1:briefDescription": "Projeto",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Projeto",
+            "ns1:inclusionAllowed": true,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 10,
+                    "ns1:leaf": false,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 892,
+                    "ns1:name": "Campanha",
+                    "ns1:briefDescription": "Campanha",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Campanha",
+                    "ns1:inclusionAllowed": true,
+                    "ns1:category": {
+                        "ns1:root": false,
+                        "ns1:relativeOrder": 10,
+                        "ns1:leaf": false,
+                        "ns1:contentVersioned": false,
+                        "ns1:dateChangingAllowed": true,
+                        "ns1:id": 893,
+                        "ns1:name": "Ensaio",
+                        "ns1:briefDescription": "Ensaio",
+                        "ns1:protectionLevelId": 1,
+                        "ns1:description": "Ensaio",
+                        "ns1:inclusionAllowed": false,
+                        "ns1:category": [
+                            {
+                                "ns1:root": false,
+                                "ns1:relativeOrder": 10,
+                                "ns1:leaf": true,
+                                "ns1:contentVersioned": false,
+                                "ns1:dateChangingAllowed": true,
+                                "ns1:id": 894,
+                                "ns1:name": "Programação",
+                                "ns1:briefDescription": "Programação",
+                                "ns1:protectionLevelId": 1,
+                                "ns1:description": "Programação",
+                                "ns1:inclusionAllowed": true
+                            },
+                            {
+                                "ns1:root": false,
+                                "ns1:relativeOrder": 20,
+                                "ns1:leaf": true,
+                                "ns1:contentVersioned": false,
+                                "ns1:dateChangingAllowed": true,
+                                "ns1:id": 895,
+                                "ns1:name": "Execução",
+                                "ns1:briefDescription": "Execução",
+                                "ns1:protectionLevelId": 1,
+                                "ns1:description": "Execução",
+                                "ns1:inclusionAllowed": true
+                            },
+                            {
+                                "ns1:root": false,
+                                "ns1:relativeOrder": 30,
+                                "ns1:leaf": true,
+                                "ns1:contentVersioned": false,
+                                "ns1:dateChangingAllowed": true,
+                                "ns1:id": 896,
+                                "ns1:name": "Interpretação",
+                                "ns1:briefDescription": "Interpretação",
+                                "ns1:protectionLevelId": 1,
+                                "ns1:description": "Interpretação",
+                                "ns1:inclusionAllowed": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 10,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 897,
+                    "ns1:name": "Estudo",
+                    "ns1:briefDescription": "Estudo",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Estudo",
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        }
+    ]}
+}}

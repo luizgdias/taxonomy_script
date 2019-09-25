@@ -1,0 +1,183 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 449,
+        "ns1:name": "Sísmica de Poço"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 10,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350715,
+            "ns1:name": "Aquisição",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Aquisição de VSP",
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 1,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350716,
+                    "ns1:name": "Dados",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Dados de Aquisição de Atividades VSP",
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 20,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350717,
+                    "ns1:name": "Relatórios",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Relatórios de Aquisição de Atividades VSP",
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 30,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350718,
+                    "ns1:name": "Documentos",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Documentos de Aquisição de Atividades VSP",
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 40,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350719,
+                    "ns1:name": "Dados Complementares",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Dados Complementares de Aquisição de Atividades VSP",
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 15,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350720,
+            "ns1:name": "Processamento",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Processamento de VSP",
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 1,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350721,
+                    "ns1:name": "Dados",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Dados de Processamento de Atividades VSP",
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 20,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350722,
+                    "ns1:name": "Relatórios",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Relatórios de Processamento de Atividades VSP",
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 30,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350723,
+                    "ns1:name": "Documentos",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Documentos de Processamento de Atividades VSP",
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 40,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 1350724,
+                    "ns1:name": "Dados Complementares",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Dados Complementares de Processamento de Atividades VSP",
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 24,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 5666,
+            "ns1:name": "Informações Recebidas",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Informações Recebidas",
+            "ns1:inclusionAllowed": false,
+            "ns1:category": [
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 24,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 5667,
+                    "ns1:name": "Boletim de Remessa",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Boletim de Remessa",
+                    "ns1:inclusionAllowed": true
+                },
+                {
+                    "ns1:root": false,
+                    "ns1:relativeOrder": 24,
+                    "ns1:leaf": true,
+                    "ns1:contentVersioned": false,
+                    "ns1:dateChangingAllowed": true,
+                    "ns1:id": 5668,
+                    "ns1:name": "Foto de Mídia",
+                    "ns1:protectionLevelId": 1,
+                    "ns1:description": "Foto de Mídia",
+                    "ns1:inclusionAllowed": true
+                }
+            ]
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 25,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 5665,
+            "ns1:name": "Certificação",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Certificação",
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}

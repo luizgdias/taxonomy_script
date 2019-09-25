@@ -1,0 +1,35 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 508,
+        "ns1:name": "String BCS"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 0,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350700,
+            "ns1:name": "Teste Conjunto",
+            "ns1:briefDescription": "Teste no conjunto de equipamentos montados (String BCS)",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Resultados de testes de uma String BCS (conjunto de equipamentos montados)",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 1,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 1350701,
+            "ns1:name": "Documentos Técnicos",
+            "ns1:briefDescription": "Documentos técnicos do conjunto de equipamentos montado",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Documentos técnicos do conjunto de equipamentos montado",
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}

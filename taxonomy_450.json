@@ -1,0 +1,74 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 450,
+        "ns1:name": "Profex"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 10,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2300,
+            "ns1:name": "Relatórios",
+            "ns1:briefDescription": "Relatórios",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Relatórios",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 20,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2301,
+            "ns1:name": "Mapas",
+            "ns1:briefDescription": "Mapas",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Mapas",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 30,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2302,
+            "ns1:name": "Fotos e Imagens",
+            "ns1:briefDescription": "Fotos e Imagens",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Fotos e Imagens",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 40,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2303,
+            "ns1:name": "Viagens de Campos",
+            "ns1:briefDescription": "Viagens de Campos",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Viagens de Campos",
+            "ns1:inclusionAllowed": true
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 50,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 2304,
+            "ns1:name": "Artigos e Teses",
+            "ns1:briefDescription": "Artigos e Teses",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Artigos e Teses",
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}

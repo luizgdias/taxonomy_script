@@ -1,0 +1,48 @@
+{"ns1:taxonomySubject": {
+    "xmlns:ns1": "http://services.petrobras.biz/ep/biaep/4.0",
+    "ns1:subject": {
+        "ns1:id": 483,
+        "ns1:name": "Dado Sísmico Pos-Empilhamento - Seção"
+    },
+    "ns1:taxonomy": {"ns1:category": [
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 10,
+            "ns1:leaf": false,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 44452,
+            "ns1:name": "Arquivos Sísmicos",
+            "ns1:briefDescription": "Permite armazenar arquivos da Fitoteca Online",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Permite armazenar arquivos da Fitoteca Online",
+            "ns1:inclusionAllowed": true,
+            "ns1:category": {
+                "ns1:root": false,
+                "ns1:relativeOrder": 10,
+                "ns1:leaf": true,
+                "ns1:contentVersioned": false,
+                "ns1:dateChangingAllowed": true,
+                "ns1:id": 1351526,
+                "ns1:name": "Arquivos Sísmicos Substituídos",
+                "ns1:briefDescription": "Arquivos Sísmicos Substituídos",
+                "ns1:protectionLevelId": 1,
+                "ns1:description": "Arquivos Sísmicos Substituídos",
+                "ns1:inclusionAllowed": true
+            }
+        },
+        {
+            "ns1:root": true,
+            "ns1:relativeOrder": 20,
+            "ns1:leaf": true,
+            "ns1:contentVersioned": false,
+            "ns1:dateChangingAllowed": true,
+            "ns1:id": 44453,
+            "ns1:name": "Documentos",
+            "ns1:briefDescription": "Documentos",
+            "ns1:protectionLevelId": 1,
+            "ns1:description": "Documentos",
+            "ns1:inclusionAllowed": true
+        }
+    ]}
+}}
