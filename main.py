@@ -22,7 +22,7 @@ def verifica(i):
             verifica(j)
 
 def verify_sub(category, taxonomy):
-    print(category)
+    # print(category)
     buff = "['" + taxonomy
     with open('taxonomy_1.json') as f:
         categories = json.loads(f.read())
@@ -52,29 +52,37 @@ def verify_sub(category, taxonomy):
 
 # super_classes_glossario('subjects.xml')
 # categories_glossario('taxonomy1.xml')
-with open('taxonomy_1.json') as f:
-        categories = json.loads(f.read())
 
-for i in categories['ns1:taxonomySubject']['ns1:taxonomy']['ns1:category']['ns1:category']:
+with open('taxonomy_1.json') as f:
+    taxonomy = json.loads(f.read())
+    taxonomy_name = taxonomy['ns1:taxonomySubject']['ns1:subject']['ns1:name']
+
+for category in taxonomy['ns1:taxonomySubject']['ns1:taxonomy']['ns1:category']['ns1:category']:
     apnd = open('file.txt', 'a+')
-    verify_sub(i, categories['ns1:taxonomySubject']['ns1:subject']['ns1:name'])
+    # verifica se a categoria possui filhos, se possuir add numa lista do tipo: 
+    # ['nome_taxonomia', 'nome_clase', 'nome_subclasse1', 'mome_subclasse2', 'nome_subclasseN']
+    verify_sub(category, taxonomy_name)
     apnd.close()
 
-print(categories['ns1:taxonomySubject']['ns1:subject']['ns1:name'])
 
-    # print(x)
+
+
 # path = '/home/luizgustavo/Documentos/Taxonomia-Petrobras/SoapClientBaseDocumentos/out'
-
 # directory = []
 # # r=root, d=directories, f = directory
 # for r, d, f in os.walk(path):
-#     for file in f:
-#         if '.json' in file:
-#             directory.append(os.path.join(r, file))
+#     for path_arquivo in f:
+#         if '.json' in path_arquivo:
+#             directory.append(os.path.join(r, path_arquivo))
 
-# for file in directory:
-#     # print(file)
-#     with open(file) as f:
-#         categories = json.loads(f.read())
-#         for i in categories['ns1:taxonomySubject']['ns1:taxonomy']['ns1:category']:
-#             verify_sub(i)
+# for arquivo in directory:
+#     print(arquivo)
+#     temp = arquivo.split('out/')
+#     print(str(temp[1]))
+#     with open(arquivo) as f:
+#         taxonomy = json.loads(f.read())
+#         taxonomy_name = taxonomy['ns1:taxonomySubject']['ns1:subject']['ns1:name']
+#         print(taxonomy_name)
+#     for cat in taxonomy['ns1:taxonomySubject']['ns1:taxonomy']['ns1:category']:
+#         if 'ns1:name' in cat:
+#             print(cat)
